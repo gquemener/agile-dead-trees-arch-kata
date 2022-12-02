@@ -1,0 +1,166 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "revision" : 0,
+  "lastModifiedDate" : "2022-12-02T10:11:16Z",
+  "lastModifiedAgent" : "structurizr-web/2780/diagram",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgZW50ZXJwcmlzZSAiQWdpbGVfRGVhZF9UcmVlcyIgewogICAgICAgICAgICBhdXRob3JpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiQXV0aG9yaW5nIgogICAgICAgICAgICByZXZpZXdpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiUmV2aWV3aW5nIgogICAgICAgICAgICBwdWJsaXNoaW5nID0gc29mdHdhcmVTeXN0ZW0gIlB1Ymxpc2hpbmciCiAgICAgICAgICAgIHNlbGxpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiU2VsbGluZyIKICAgICAgICB9CgogICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIgogICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIKICAgICAgICBwdWJsaXNoZXIgPSBwZXJzb24gIlB1Ymxpc2hlciIKICAgICAgICBjdXN0b21lciA9IHBlcnNvbiAiQ3VzdG9tZXIiCgogICAgICAgIGF1dGhvciAtPiBhdXRob3JpbmcgIlVzZXMiCiAgICAgICAgcmV2aWV3ZXIgLT4gcmV2aWV3aW5nICJVc2VzIgogICAgICAgIHB1Ymxpc2hlciAtPiBwdWJsaXNoaW5nICJVc2VzIgogICAgICAgIGN1c3RvbWVyIC0+IHNlbGxpbmcgIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUxhbmRzY2FwZSBhZ2lsZURlYWRUcmVlcyAiQWdpbGVfRGVhZF9UcmVlcyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCn0K"
+  },
+  "configuration" : { },
+  "model" : {
+    "enterprise" : {
+      "name" : "Agile_Dead_Trees"
+    },
+    "people" : [ {
+      "id" : "8",
+      "tags" : "Element,Person",
+      "name" : "Customer",
+      "relationships" : [ {
+        "id" : "12",
+        "tags" : "Relationship",
+        "sourceId" : "8",
+        "destinationId" : "4",
+        "description" : "Uses"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "5",
+      "tags" : "Element,Person",
+      "name" : "Author",
+      "relationships" : [ {
+        "id" : "9",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "1",
+        "description" : "Uses"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "7",
+      "tags" : "Element,Person",
+      "name" : "Publisher",
+      "relationships" : [ {
+        "id" : "11",
+        "tags" : "Relationship",
+        "sourceId" : "7",
+        "destinationId" : "3",
+        "description" : "Uses"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "6",
+      "tags" : "Element,Person",
+      "name" : "Reviewer",
+      "relationships" : [ {
+        "id" : "10",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "2",
+        "description" : "Uses"
+      } ],
+      "location" : "External"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "3",
+      "tags" : "Element,Software System",
+      "name" : "Publishing",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "1",
+      "tags" : "Element,Software System",
+      "name" : "Authoring",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "name" : "Reviewing",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System",
+      "name" : "Selling",
+      "location" : "Internal",
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemLandscapeViews" : [ {
+      "description" : "Agile_Dead_Trees",
+      "key" : "agileDeadTrees",
+      "order" : 1,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 3358,
+        "height" : 1520
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 328,
+        "y" : 913
+      }, {
+        "id" : "2",
+        "x" : 1078,
+        "y" : 913
+      }, {
+        "id" : "3",
+        "x" : 1828,
+        "y" : 913
+      }, {
+        "id" : "4",
+        "x" : 2578,
+        "y" : 913
+      }, {
+        "id" : "5",
+        "x" : 353,
+        "y" : 213
+      }, {
+        "id" : "6",
+        "x" : 1103,
+        "y" : 213
+      }, {
+        "id" : "7",
+        "x" : 1853,
+        "y" : 213
+      }, {
+        "id" : "8",
+        "x" : 2603,
+        "y" : 213
+      } ],
+      "relationships" : [ {
+        "id" : "11"
+      }, {
+        "id" : "12"
+      }, {
+        "id" : "9"
+      }, {
+        "id" : "10"
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "Person",
+          "shape" : "Person"
+        } ]
+      },
+      "terminology" : { },
+      "lastSavedView" : "agileDeadTrees"
+    }
+  }
+}
