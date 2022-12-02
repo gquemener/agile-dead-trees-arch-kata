@@ -11,3 +11,9 @@ https://structurizr.com/dsl
 # Structurizr DSL reference
 
 https://github.com/structurizr/dsl/blob/master/docs/language-reference.md
+
+# Miro Boards
+
+General - https://miro.com/app/board/uXjVP_OpxVI=/
+
+Group - https://miro.com/app/board/uXjVP_MFpLA=/
