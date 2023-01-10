@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-12-02T10:11:16Z",
+  "lastModifiedDate" : "2023-01-10T10:55:25Z",
   "lastModifiedAgent" : "structurizr-web/2780/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgZW50ZXJwcmlzZSAiQWdpbGVfRGVhZF9UcmVlcyIgewogICAgICAgICAgICBhdXRob3JpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiQXV0aG9yaW5nIgogICAgICAgICAgICByZXZpZXdpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiUmV2aWV3aW5nIgogICAgICAgICAgICBwdWJsaXNoaW5nID0gc29mdHdhcmVTeXN0ZW0gIlB1Ymxpc2hpbmciCiAgICAgICAgICAgIHNlbGxpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiU2VsbGluZyIKICAgICAgICB9CgogICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIgogICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIKICAgICAgICBwdWJsaXNoZXIgPSBwZXJzb24gIlB1Ymxpc2hlciIKICAgICAgICBjdXN0b21lciA9IHBlcnNvbiAiQ3VzdG9tZXIiCgogICAgICAgIGF1dGhvciAtPiBhdXRob3JpbmcgIlVzZXMiCiAgICAgICAgcmV2aWV3ZXIgLT4gcmV2aWV3aW5nICJVc2VzIgogICAgICAgIHB1Ymxpc2hlciAtPiBwdWJsaXNoaW5nICJVc2VzIgogICAgICAgIGN1c3RvbWVyIC0+IHNlbGxpbmcgIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUxhbmRzY2FwZSBhZ2lsZURlYWRUcmVlcyAiQWdpbGVfRGVhZF9UcmVlcyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgZW50ZXJwcmlzZSAiQWdpbGVfRGVhZF9UcmVlcyIgewogICAgICAgICAgICB3cml0aW5nID0gc29mdHdhcmVTeXN0ZW0gIldyaXRpbmciIHsKICAgICAgICAgICAgICAgIHZlcnNpb25pbmcgPSBjb250YWluZXIgIlZlcnNpb25pbmciICJWZXJzaW9uIGNvbnRyb2wgYXBwbGljYXRpb24iICJHaXRodWIiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgc2VsbGluZyA9IHNvZnR3YXJlU3lzdGVtICJTZWxsaW5nIgogICAgICAgIH0KCiAgICAgICAgcGF5bWVudEdhdGV3YXkgPSBzb2Z0d2FyZVN5c3RlbSAiUGF5bWVudCBHYXRld2F5IgogICAgICAgIHByaW50aW5nRmFjaWxpdHkgPSBzb2Z0d2FyZVN5c3RlbSAiUHJpbnRpbmcgRmFjaWxpdHkiCgogICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIgogICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIKICAgICAgICBwdWJsaXNoZXIgPSBwZXJzb24gIlB1Ymxpc2hlciIKICAgICAgICBjdXN0b21lciA9IHBlcnNvbiAiQ3VzdG9tZXIiCgogICAgICAgIGF1dGhvciAtPiB2ZXJzaW9uaW5nICJ3cml0ZXMgY2hhcHRlcnMiCiAgICAgICAgcmV2aWV3ZXIgLT4gdmVyc2lvbmluZyAidmFsaWRhdGUgdGhlIGF1dGhvcidzIGNoYW5nZXMiCgogICAgICAgIHB1Ymxpc2hlciAtPiBzZWxsaW5nICJtYW5hZ2UgdGhlIGNhdGFsb2ciCiAgICAgICAgY3VzdG9tZXIgLT4gc2VsbGluZyAiYnV5cyBib29rcyBmcm9tIHRoZSBjYXRhbG9nIgoKICAgICAgICBzZWxsaW5nIC0+IHBheW1lbnRHYXRld2F5ICJwcm9jZXNzIHBheW1lbnRzIgogICAgICAgIHNlbGxpbmcgLT4gcHJpbnRpbmdGYWNpbGl0eSAic2VuZHMgZGVhZCB0cmVlcyBvcmRlciIKCiAgICAgICAgd3JpdGluZyAtPiBzZWxsaW5nICJwdXNoZXMgbmV3IHZhbGlkYXRlZCB2ZXJzaW9ucyIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlIGFnaWxlRGVhZFRyZWVzICJBZ2lsZV9EZWFkX1RyZWVzIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgd3JpdGluZyB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJQZXJzb24iIHsKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKfQo="
   },
   "configuration" : { },
   "model" : {
@@ -14,77 +14,116 @@
       "name" : "Agile_Dead_Trees"
     },
     "people" : [ {
-      "id" : "8",
-      "tags" : "Element,Person",
-      "name" : "Customer",
-      "relationships" : [ {
-        "id" : "12",
-        "tags" : "Relationship",
-        "sourceId" : "8",
-        "destinationId" : "4",
-        "description" : "Uses"
-      } ],
-      "location" : "External"
-    }, {
-      "id" : "5",
-      "tags" : "Element,Person",
-      "name" : "Author",
-      "relationships" : [ {
-        "id" : "9",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "1",
-        "description" : "Uses"
-      } ],
-      "location" : "External"
-    }, {
-      "id" : "7",
-      "tags" : "Element,Person",
-      "name" : "Publisher",
-      "relationships" : [ {
-        "id" : "11",
-        "tags" : "Relationship",
-        "sourceId" : "7",
-        "destinationId" : "3",
-        "description" : "Uses"
-      } ],
-      "location" : "External"
-    }, {
       "id" : "6",
       "tags" : "Element,Person",
-      "name" : "Reviewer",
+      "name" : "Author",
       "relationships" : [ {
         "id" : "10",
         "tags" : "Relationship",
         "sourceId" : "6",
         "destinationId" : "2",
-        "description" : "Uses"
+        "description" : "writes chapters"
+      }, {
+        "id" : "11",
+        "sourceId" : "6",
+        "destinationId" : "1",
+        "description" : "writes chapters",
+        "linkedRelationshipId" : "10"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "7",
+      "tags" : "Element,Person",
+      "name" : "Reviewer",
+      "relationships" : [ {
+        "id" : "12",
+        "tags" : "Relationship",
+        "sourceId" : "7",
+        "destinationId" : "2",
+        "description" : "validate the author's changes"
+      }, {
+        "id" : "13",
+        "sourceId" : "7",
+        "destinationId" : "1",
+        "description" : "validate the author's changes",
+        "linkedRelationshipId" : "12"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "9",
+      "tags" : "Element,Person",
+      "name" : "Customer",
+      "relationships" : [ {
+        "id" : "15",
+        "tags" : "Relationship",
+        "sourceId" : "9",
+        "destinationId" : "3",
+        "description" : "buys books from the catalog"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "8",
+      "tags" : "Element,Person",
+      "name" : "Publisher",
+      "relationships" : [ {
+        "id" : "14",
+        "tags" : "Relationship",
+        "sourceId" : "8",
+        "destinationId" : "3",
+        "description" : "manage the catalog"
       } ],
       "location" : "External"
     } ],
     "softwareSystems" : [ {
       "id" : "3",
       "tags" : "Element,Software System",
-      "name" : "Publishing",
+      "name" : "Selling",
+      "relationships" : [ {
+        "id" : "17",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "5",
+        "description" : "sends dead trees order"
+      }, {
+        "id" : "16",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "4",
+        "description" : "process payments"
+      } ],
       "location" : "Internal",
       "documentation" : { }
     }, {
       "id" : "1",
       "tags" : "Element,Software System",
-      "name" : "Authoring",
+      "name" : "Writing",
+      "relationships" : [ {
+        "id" : "18",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "pushes new validated versions"
+      } ],
       "location" : "Internal",
+      "containers" : [ {
+        "id" : "2",
+        "tags" : "Element,Container",
+        "name" : "Versioning",
+        "description" : "Version control application",
+        "technology" : "Github"
+      } ],
       "documentation" : { }
     }, {
-      "id" : "2",
+      "id" : "5",
       "tags" : "Element,Software System",
-      "name" : "Reviewing",
-      "location" : "Internal",
+      "name" : "Printing Facility",
+      "location" : "External",
       "documentation" : { }
     }, {
       "id" : "4",
       "tags" : "Element,Software System",
-      "name" : "Selling",
-      "location" : "Internal",
+      "name" : "Payment Gateway",
+      "location" : "External",
       "documentation" : { }
     } ]
   },
@@ -94,10 +133,10 @@
       "description" : "Agile_Dead_Trees",
       "key" : "agileDeadTrees",
       "order" : 1,
-      "paperSize" : "A4_Landscape",
+      "paperSize" : "A4_Portrait",
       "dimensions" : {
-        "width" : 3358,
-        "height" : 1520
+        "width" : 2266,
+        "height" : 2716
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -110,43 +149,86 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 328,
-        "y" : 913
-      }, {
-        "id" : "2",
-        "x" : 1078,
-        "y" : 913
+        "x" : 908,
+        "y" : 957
       }, {
         "id" : "3",
-        "x" : 1828,
-        "y" : 913
+        "x" : 908,
+        "y" : 1607
       }, {
         "id" : "4",
-        "x" : 2578,
-        "y" : 913
+        "x" : 533,
+        "y" : 2207
       }, {
         "id" : "5",
-        "x" : 353,
-        "y" : 213
+        "x" : 1283,
+        "y" : 2207
       }, {
         "id" : "6",
-        "x" : 1103,
-        "y" : 213
+        "x" : 583,
+        "y" : 207
       }, {
         "id" : "7",
-        "x" : 1853,
-        "y" : 213
+        "x" : 1283,
+        "y" : 207
       }, {
         "id" : "8",
-        "x" : 2603,
-        "y" : 213
+        "x" : 208,
+        "y" : 907
+      }, {
+        "id" : "9",
+        "x" : 1658,
+        "y" : 907
       } ],
       "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "17"
+      }, {
+        "id" : "16"
+      }, {
+        "id" : "15"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "13"
+      }, {
         "id" : "11"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "softwareSystemId" : "1",
+      "key" : "Writing-Container",
+      "order" : 2,
+      "paperSize" : "A5_Portrait",
+      "dimensions" : {
+        "width" : 1516,
+        "height" : 1520
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "2",
+        "x" : 533,
+        "y" : 908
       }, {
+        "id" : "6",
+        "x" : 208,
+        "y" : 208
+      }, {
+        "id" : "7",
+        "x" : 908,
+        "y" : 208
+      } ],
+      "relationships" : [ {
         "id" : "12"
-      }, {
-        "id" : "9"
       }, {
         "id" : "10"
       } ]
